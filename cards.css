@@ -1,3 +1,33 @@
-* {
-    background-color: red;
+.background {
+
+    background-color: grey;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px 20px 30px 40px;
+
+}
+
+.split {
+
+    display:flex;
+
+}
+
+.left {
+
+    margin: 0px 30px 0px 0px
+
+}
+
+.qr {
+
+    height:200px;
+
+}
+
+.text {
+
+    font-weight: 500;
+    font-size: 25px;
+
 }

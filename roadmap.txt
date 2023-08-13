@@ -1,6 +1,7 @@
 Make draft business card in html/css
 Embed QR code in business card
 Make html for business card able to download itself as a .png or .pdf (preferably .png)
+    use JS to call an api like API Flash or use a library
 Make actual business card
 get firnando https
 shove on firnando
